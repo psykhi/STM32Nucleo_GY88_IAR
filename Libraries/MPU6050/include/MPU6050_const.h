@@ -1,0 +1,13 @@
+/*
+ * MPU6050_const.h
+ *
+ *  Created on: 29 oct. 2014
+ *      Author: Alexandre
+ */
+
+#ifndef MPU6050_INCLUDE_MPU6050_CONST_H_
+#define MPU6050_INCLUDE_MPU6050_CONST_H_
+
+#define MPU6050_I2C_TIMEOUT 1000
+#define MPU6050_I2C_ADDRESS 0b1101000
+#endif /* MPU6050_INCLUDE_MPU6050_CONST_H_ */
